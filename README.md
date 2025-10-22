@@ -4,7 +4,11 @@ A modern property search application built with Next.js that integrates with the
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://my-app-eosin-beta-51.vercel.app)**
+**[View Live Application](https://my-i09etgdra-allen8864s-projects.vercel.app)**
+
+## 📂 Repository
+
+**[GitHub Repository](https://github.com/Allen8864/property-mini-project)**
 
 ## 📋 Overview
 
